@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68d21f4811cb1c198f087fefa136c35a",
+    "revision": "1568d77998c94cbf0f380e04d6ce980a",
     "url": "/ena_log/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ena_log/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "4d3adf0f9ebfe195a8fd",
+    "revision": "b590e9ebecf3722eb307",
     "url": "/ena_log/static/css/main.854dc8d0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ena_log/static/js/2.79cd14ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d3adf0f9ebfe195a8fd",
-    "url": "/ena_log/static/js/main.b50562ca.chunk.js"
+    "revision": "b590e9ebecf3722eb307",
+    "url": "/ena_log/static/js/main.ea2915d3.chunk.js"
   },
   {
     "revision": "e09c2f3481808af57442",
