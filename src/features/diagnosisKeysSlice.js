@@ -5,7 +5,7 @@ const { DateTime } = require("luxon");
 const fetchKeys = createAsyncThunk(
   'fetchKeys',
   async () => {
-    const response = await axios.get('https://ctt.pfstr.de/json/filehashes.json')
+    const response = await axios.get('https://ctt-si.netlify.app/json/filehashes.json')
     return response.data
   }
 )
